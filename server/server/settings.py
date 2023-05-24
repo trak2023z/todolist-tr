@@ -55,6 +55,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'djoser',
     'account.apps.AccountConfig',
+    'todolist.apps.TodolistConfig'
 ]
 
 MIDDLEWARE = [
