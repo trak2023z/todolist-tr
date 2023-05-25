@@ -18,3 +18,9 @@ export const defaultAuthValues = {
   last_name: "",
   re_password: "",
 };
+
+export const modalTodoListForm = [{ type: "text", name: "description" }];
+
+export const defaultTodoList = {
+  description: "",
+};
